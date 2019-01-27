@@ -1,3 +1,3 @@
 # first_repo
 # contents
-# Author: Zhuoran Lin
+# Author: Zhuoran Lin & Yichi
